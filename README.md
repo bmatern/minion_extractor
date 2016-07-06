@@ -1,2 +1,2 @@
-# minion_extractor
-MinION extraction scripts
+# Minion Fast5 Extractor
+This repository contains scripts for the extraction of MinION reads.
